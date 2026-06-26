@@ -1,1 +1,1 @@
-integration-framework 1781915427
+integration-framework 1782498768
